@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="myLog" />
+        <option name="name" value="My Logs" />
+        <option name="packageNamePattern" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="My Logs" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8954c015-26fe-4e4e-a65a-5c995402cbea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/androidTest/java/ru/test/p0551_header_footer/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/java/ru/test/p0551_header_footer/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/layout/footer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/layout/header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/layout/main.xml" afterDir="false" /

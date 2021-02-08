@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="debug" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="myLog" />
+        <option name="name" value="MyLogs" />
+        <option name="packageNamePattern" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="MyLogs" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e61f18d0-fcc1-4e0f-8c5c-8afe1bb15342" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/androidTest/java/ru/test/p0551_header_footer/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/java/ru/test/p0551_header_footer/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/layout/footer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/layout/header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/layout/main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0551_header_footer/src/test/java/ru/test/p0551_header_footer/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/androidTest/java/ru/test/p0561_spinner/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/java/ru/test/p0561_spinner/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/layout/main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0561_spinner/src/test/java/ru/test/p0561_spinner/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/androidTest/java/ru/test/p0571_gridview/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/java/ru/test/p0571_gridview/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/drawable/rect.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/layout/item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/layout/main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_Lessons_3/p0571_gridview/src/test/java/ru/test/p0571_gridview/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Brujula/app/src/main/res/drawable/img_compass_dinamic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Brujula/app/src/main/res/drawable/img_compass_static.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/assets/databases/Entertainment.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/AddActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/AddingDescriptionActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/ShowActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/db/BookAuthor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/db/BookCicles.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/db/BookGenres.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/db/BookSerialTable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/db/BookTable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/db/ItemSerial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/db/ItemSeries.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/db/ItemSingle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/db/MyDbHelper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/db/MyDbManagerBook.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/user_classes/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/user_classes/Entertainment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/user_classes/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/user_classes/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/user_classes/SerialBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/user_classes/SerialGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/user_classes/SerialMovie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/java/ru/test/my_tests/user_classes/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyTests/app/src/main/res/layout/activity_adding_description.xm

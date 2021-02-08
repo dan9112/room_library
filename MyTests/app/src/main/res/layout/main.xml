@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8C9EFF"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:inputType="textMultiLine"
+        android:padding="5dp"
+        android:text="Выберите режим работы с заметками:"
+        android:textColor="#BA0909"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/bGet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Просмотр"
+        android:textColor="#8C9EFF"
+        app:backgroundTint="#BA0909" />
+
+    <Button
+        android:id="@+id/bSet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Редактирование"
+        android:textColor="#8C9EFF"
+        app:backgroundTint="#BA0909" />
+
+    <Button
+        android:id="@+id/bAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Добавление"
+        android:textColor="#8C9EFF"
+        app:backgroundTint="#BA0909" />
+</LinearLayout>

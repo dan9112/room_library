@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/llLoad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <CheckBox
+                android:id="@+id/priority"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/tvId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="id"></TextView>
+
+            <TextView
+                android:id="@+id/tvName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Наименование" />
+
+            <TextView
+                android:id="@+id/tvAtr1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Характеристика 1" />
+
+            <TextView
+                android:id="@+id/tvAtr2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Характеристика 2" />
+
+        </LinearLayout>
+
+        <ProgressBar
+            android:id="@+id/pbLoad"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:max="100"></ProgressBar>
+    </LinearLayout>
+</LinearLayout>
